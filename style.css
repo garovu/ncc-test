@@ -3,6 +3,7 @@ body {
   margin: 0;
 	padding: 0;
 	border: 0;
+	  height: 100vh;
 }
 
 .nav {
@@ -68,4 +69,8 @@ body {
 .feature--t {
   width: 100%;
   padding-left: 50px;
+}
+
+.footer{
+  padding: 10px 15%;
 }
